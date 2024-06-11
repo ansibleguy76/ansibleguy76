@@ -7,9 +7,7 @@
 
 - 🤝 I’m looking for help with [AnsibleForms](https://github.com/ansibleguy76/ansibleforms)
 
-- 👨‍💻 Check out AnsibleForms [https://ansibleforms.com](https://ansibleforms.com)
-
-- 💬 Ask me about **Vue, javascript and Ansible**
+- 👨‍💻 Check out AnsibleForms docs [https://ansibleforms.com](https://ansibleforms.com)
 
 - 📫 How to reach me **info@ansibleguy.com**
 
