@@ -22,7 +22,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ansibleguy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ansibleguy" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansibleguy76&show_icons=true&locale=en&layout=compact" alt="ansibleguy76" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ansibleguy76&show_icons=true&locale=en" alt="ansibleguy76" /></p>
