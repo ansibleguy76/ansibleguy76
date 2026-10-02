@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm AnsibleGuy76</h1>
-<h3 align="center">A passionate developer from Belgium</h3>
+<h1 align="center">This project is now owned by Opus Projects</h1>
+<h3 align="center">Developers over opensource automation tools</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansibleguy76&label=Profile%20views&color=0e75b6&style=flat" alt="ansibleguy76" /> </p>
 
