@@ -1,4 +1,3 @@
-<h1 align="center">This project is now maintained by Opus Projects</h1>
-<h3 align="center">Developers of opensource automation tools</h3>
+<h1 align="center">Ansibleforms is moved</h1>
 
-<a href="https://github.com/OpusProjects">https://github.com/OpusProjects</a>
+<a href="https://github.com/ansibleforms">https://github.com/ansibleforms</a>
